@@ -1,0 +1,34 @@
+{
+		"name": "A-PLAY",
+		"author": "@Aplay",
+		"image":"https://raw.githubusercontent.com/udoncyber/A/master/logo%20128.png",
+		"url": "#",
+		
+
+		"stations":[
+		    {
+			    "name": "Hi-Def 1",
+                            "image": "https://i.imgur.com/pYlyuMQ.png",
+                            "url": "https://player.we-play.tv/channel.php?name=hi-def1&cate=entertainment",
+		            "referer": "https://player.we-play.tv"
+                    },
+
+
+
+		    {
+			    "name": "LoveNature 4K",
+                            "image": "https://i.imgur.com/XWDSCI7.png",
+                            "url": "https://player.we-play.tv/channel.php?name=lovenature&cate=documentary",
+		            "referer": "https://player.we-play.tv"
+                    },
+
+		    {
+			    "name": "GEM",
+                            "image": "https://i.imgur.com/FGSI3Wb.png",
+                            "url": "https://player.we-play.tv/channel.php?name=gem&cate=entertainment",
+		            "referer": "https://player.we-play.tv"
+                    },
+		
+				
+    ]
+}
