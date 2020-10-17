@@ -36,6 +36,13 @@
 
                     },
 		
+				    {
+			    "name": "HBO HD",
+                            "image": "https://images.ufoiptv.com/channels/hd-hbo.jpg",
+                            "url": "https://www.we-play.tv/watching/tv/hbo-hd",
+		            "referer": ""
+                    },
+		
 				
     ]
 }
